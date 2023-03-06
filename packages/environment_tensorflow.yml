@@ -6,5 +6,5 @@ dependencies:
   - matplotlib
   - pip
   - pip:
-    - -r file:requirements_tensorflow.txt
+    - -r file:packages/requirements_tensorflow.txt
 
